@@ -19,3 +19,5 @@ Windows 10 64x Ti 1080 nvida cuda 9.0
 
 
 I AM AI.DEEP ---NI ZHENGQI 
+Weichat:appleringapple
+Email:appleringapple@gmail.com
