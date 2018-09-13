@@ -1,0 +1,17 @@
+setup_win.py
+model/utils/bbox.pyx
+model/nms/src/nms_cuda.cpp
+model/nms/src/nms_cuda_kernel.cu
+model/roi_align/src/roi_align_cuda.cpp
+model/roi_align/src/roi_align_kernel.cu
+model/roi_crop/src/roi_crop_cuda.cpp
+model/roi_crop/src/roi_crop_cuda_kernel.cu
+model/roi_pooling/src/roi_pooling_cuda.cpp
+model/roi_pooling/src/roi_pooling_kernel.cu
+model/utils/bbox.pyx
+py_fast_rcnn_gpu.egg-info/PKG-INFO
+py_fast_rcnn_gpu.egg-info/SOURCES.txt
+py_fast_rcnn_gpu.egg-info/dependency_links.txt
+py_fast_rcnn_gpu.egg-info/top_level.txt
+pycocotools/_mask.pyx
+pycocotools/maskApi.c
