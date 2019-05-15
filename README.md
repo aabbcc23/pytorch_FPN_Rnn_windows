@@ -1,5 +1,5 @@
 # Pytorch_FPN_Rnn_windows
-Pytorch faser-rcnn feature pyramid network(fpn) for windows10 cuda9.0 compiled pytorch 0.4.0
+Pytorch faster-rcnn feature pyramid network(fpn) for windows10 cuda9.0 compiled pytorch 0.4.0
 bg.
 
 Why I create this project
